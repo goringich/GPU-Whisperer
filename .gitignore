@@ -25,3 +25,8 @@ __pycache__/
 
 # зависимости из pip freeze
 *.egg-info/
+
+*.txt
+*.srt
+*.vtt
+!requirements.txt
