@@ -1,0 +1,4 @@
+faster-whisper==1.0.3
+rich==13.7.1
+pydub==0.25.1
+srt==3.5.3

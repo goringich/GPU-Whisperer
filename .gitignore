@@ -1,0 +1,27 @@
+# виртуальное окружение
+.venv/
+venv/
+
+# файлы ОС
+.DS_Store
+Thumbs.db
+
+# аудиофайлы
+*.m4a
+*.mp3
+*.wav
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# логи
+*.log
+
+# временные файлы IDE
+.vscode/
+.idea/
+
+# зависимости из pip freeze
+*.egg-info/
