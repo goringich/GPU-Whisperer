@@ -17,6 +17,6 @@
 ## Установка
 
 ```bash
-git clone https://github.com/yourname/transcriber.git
+git clone https://github.com/goringich/transcriber.git
 cd transcriber
 pip install -r requirements.txt
